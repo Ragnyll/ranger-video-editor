@@ -7,6 +7,12 @@
 &nbsp;&nbsp;&nbsp;&nbsp;Alternately use `clip_cut {[MM:]ss.ms} {[MM:]ss.ms}` where `arg[0]` is the start time `arg[1]` is the end time.
 
 ## Installation
+### Prerequisites
+* `ranger`
+* `ffmpeg`
+
+Both these prerequisites can be installed through your operating systems package manager.
+
 ```
 git clone https://gitlab.com/Ragnyll/ranger-video-editor.git
 cd ranger-video-editor
